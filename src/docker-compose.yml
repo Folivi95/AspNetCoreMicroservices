@@ -4,9 +4,9 @@ services:
   catalogdb:
     image: mongo
 
-#  basketdb:
-#    image: redis:alpine
-#
+  basketdb:
+    image: redis:alpine
+
 #  discountdb:
 #    image: postgres
 #
